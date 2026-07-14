@@ -3,7 +3,7 @@
 Personal portfolio website built using HTML, CSS, JavaScript.
 
 ## Live Website
-https://yourusername.github.io/portfolio/
+https://nainsi2003.github.io/portfolio/
 
 ## Features
 - About Me
